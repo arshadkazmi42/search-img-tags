@@ -1,0 +1,43 @@
+{
+  "name": "search-img-tags",
+  "version": "1.0.0",
+  "description": "Search image urls from <img> tags from any HTML content",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/search-img-tags.git"
+  },
+  "keywords": [
+    "search",
+    "tags",
+    "html",
+    "image",
+    "img",
+    "image",
+    "tags",
+    "image",
+    "url",
+    "webpage",
+    "scrape"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/search-img-tags/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/search-img-tags#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  }
+}
