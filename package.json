@@ -1,6 +1,6 @@
 {
   "name": "search-img-tags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search image urls from <img> tags from any HTML content",
   "main": "index.js",
   "files": [
