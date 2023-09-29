@@ -1,6 +1,12 @@
 # search-img-tags
 
 [![Build](https://github.com/arshadkazmi42/search-img-tags/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/search-img-tags/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/search-img-tags.svg)](https://www.npmjs.com/package/search-img-tags)
+[![NPM Downloads](https://img.shields.io/npm/dt/search-img-tags.svg)](https://www.npmjs.com/package/search-img-tags)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/search-img-tags.svg)](https://github.com/arshadkazmi42/search-img-tags)
+[![LICENSE](https://img.shields.io/npm/l/search-img-tags.svg)](https://github.com/arshadkazmi42/search-img-tags/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/search-img-tags.svg)](https://github.com/arshadkazmi42/search-img-tags/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/search-img-tags.svg)](https://github.com/arshadkazmi42/search-img-tags/commits/master)
 
 Search image urls from &lt;img> tag from any HTML content
 
