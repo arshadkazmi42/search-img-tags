@@ -8,9 +8,6 @@
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/search-img-tags.svg)](https://github.com/arshadkazmi42/search-img-tags/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/search-img-tags.svg)](https://github.com/arshadkazmi42/search-img-tags/commits/master)
 
-
-[![Build](https://github.com/arshadkazmi42/search-img-tags/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/search-img-tags/actions/workflows/nodejs.yml)
-
 Search image urls from &lt;img> tag from any HTML content
 
 ## Install
